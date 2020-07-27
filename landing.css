@@ -1,0 +1,301 @@
+/* Navbar */
+.navbar-brand {
+	X: 89px;
+	Y: 48px;
+	width: 128px;
+	height: 34px;
+	margin-top: 46px;
+}
+
+.nav-link {
+	margin-right: 30px;
+	line-height: 26px;
+	color: #261d40;
+	size: 14px;
+	font-family: SourceSansPro-SemiBold;
+	margin-top: 46px;
+}
+.nav-btn {
+	X: 1160px;
+	Y: 46px;
+	width: 90px;
+	height: 25px;
+	border-radius: 4px;
+	border: 1px solid #432b87 ;
+	text-align: center;
+	font-size: 14px;
+	color: #432b87;
+	position: inline-block;
+	margin: auto;
+	margin-top: 55px;
+}
+.hero-box-copy{
+	X: 0px;
+	Y: 0px;
+	width: 1349px;
+	height: 662px;
+	margin-top: -75px;
+	color: white;
+}
+
+.left{
+	width: 760px;
+	height: 662px;
+	display: flex;
+	justify-content: center;
+	float: left;
+}
+.right{
+	width: 489px;
+	height: 662px;
+	float: left;
+	margin-top: 100px;
+}
+.box-right{
+	X: 1054px;
+	Y: 60px;
+	font-family: SourceSansPro-Semibold;
+	line-height: 26px;
+	font-size: 12px;
+	color: navy;
+	text-align: right;
+}
+.button-1 {
+    margin-top: 8rem;
+	margin-left: 14rem;
+	background-color: #73c700;
+	color: white;
+	width: 180px;
+	border-radius: 4px;
+}
+
+.button-2{
+    background-color: #73c700;
+	color: white;
+}
+.header{
+	width: 100%;
+	height: 10vw;
+	display: flex;
+	justify-content: right;
+}
+.hero-text{
+	width: 681px;
+	height: 94px;
+	font-family: SourceSansPro-Semibold;
+	font-size: 25px;
+	text-align: left;
+	line-height: 54.6px;
+	color: navy;
+}
+
+.hero-btn{
+	X: 1170px;
+	Y: 50px;
+	width: 200px;
+	height: 50px;
+	border-radius: 4px;
+	border: 1px solid #6cbb01;
+	background-color: #6cbb01;
+	text-align: center;
+	font-size: 20px;
+	color: #6cbb01;
+	position: inline-block;
+	margin: auto;
+	margin-top: 55px;
+}
+.blog-link {
+	margin-right: 30px;
+	line-height: 26px;
+	color: #261d40;
+	size: 14px;
+	font-family: SourceSansPro-SemiBold;
+	margin-top: 46px;
+	text-align: right;
+}
+.blog-btn {
+	X: 1160px;
+	Y: 46px;
+	width: 90px;
+	height: 25px;
+	border-radius: 4px;
+	border: 1px solid #432b87 ;
+	text-align: center;
+	font-size: 14px;
+	color: #432b87;
+	position: inline-block;
+	margin-top: 55px;
+}
+.box-right1{
+	X: 1054px;
+	Y: 60px;
+	font-family: SourceSansPro-Semibold;
+	line-height: 26px;
+	font-size: 14px;
+	color: navy;
+	text-align: right;
+}
+.rectangle-3{
+	margin-top: -100px;
+}
+.btn-button{
+	X: 1160px;
+	Y: 46px;
+	width: 90px;
+	height: 25px;
+	border-radius: 4px;
+	border: 1px solid #432b87 ;
+	text-align: center;
+	font-size: 14px;
+	color: #432b87;
+	position: inline-block;
+	margin: auto;
+	margin-top: 55px;
+}
+.banner-left{
+	X: 0px;
+	Y: 0px;
+	width: 1349px;
+	height: 662px;
+	margin-top: -75px;
+	color: white;
+}
+.hero-text1{
+	X: 761px;
+	Y: 950px;
+	width: 480px;
+	height: 148px;
+	opacity: 80%;
+	font-family: SourceSansPro-Regular;
+	font-size: 18px;
+	text-align: left;
+	line-height: 30px;
+	color: rgba(57, 53, 69, 0.8);
+	float: right;
+}
+
+.service {
+	
+	font-family: SourceSansPro-Semibold;
+	
+    padding: 500px;
+	text-align: center;
+	color: #261d40;
+}
+.hr {
+    height: 3;
+	width: 36px;
+	margin-top: 30px;
+}
+
+.box-card {
+    height: 528px;
+    background-color: #fafafa;
+	padding-top: 6rem;
+	margin-top: -400px;
+}
+.circle1 {
+	margin-left: 500px;
+    opacity: 0.5;
+    color: #1d3954;
+}
+
+.circle2 {
+    color: #432b87;
+    margin-left: 150px;
+    margin-bottom: 15px;
+}
+
+.circle3 {
+    margin-left: -200px;
+    opacity: 0.5;
+    color: #1d3954;
+}
+.icon-people {
+    background-color: #432b87;
+    border-radius: 50px;
+    color: white;
+    margin-left: 15rem;
+    position: relative;
+}
+
+.news {
+	
+	height: 23px;
+	font-family: SourceSansPro-Regular;
+	
+	padding: 100px;
+	color: #261d40;
+}
+
+.rectangle4-copy3 {
+    width: 40px;
+    height: 2px;
+    background-color: #ff7800;
+    margin-top: 2rem;
+}
+
+.read {
+    color: #432b87;
+    font-weight: bold;
+}
+
+.button {
+	padding: 20px;
+	
+}
+
+.button1 {
+    width: 190px;
+    height: 50px;
+    border-radius: 4px;
+    background-color: #432b87;
+	margin-top: 400px;
+	color: white;
+	font-family: SourceSansPro-Semibold;
+	font-size: 14px;
+}
+.app {
+    padding: 20px;
+    height: 280px;
+    background-color: #fafafa;
+}
+
+.download-app {
+	margin-top: 4rem;
+	color: #261d40;
+}
+
+.button2 {
+    margin-top: 8rem;
+    margin-left: 14rem;
+}
+
+.button3 {
+    background-color: #73c700;
+    color: white;
+}
+
+.footer {
+	padding: 100px;
+	color: #261d40;
+	text-align: center;
+}
+
+
+/*  */
+/* Utility */
+.tombol {
+	text-transform: uppercase;
+}
+
+/* DEKSTOP VERSION */
+
+@media (min-width: 992px) {
+	.nav-link{
+		text-transform: uppercase;
+		margin-right: 30px;
+	}
+
+
+}
